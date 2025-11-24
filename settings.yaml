@@ -1,0 +1,13 @@
+dataset:
+  path: "./data"
+training:
+  epochs: 25
+  batch_size: 16
+  lr: 0.001
+model:
+  name: "yolov8n"
+wandb:
+  project: "bsort-project"
+  entity: "your-wandb-username"
+inference:
+  device: "cpu"
