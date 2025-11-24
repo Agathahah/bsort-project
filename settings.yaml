@@ -8,6 +8,7 @@ model:
   name: "yolov8n"
 wandb:
   project: "bsort-project"
-  entity: "your-wandb-username"
+  entity: "agathasilalahi"
 inference:
   device: "cpu"
+
